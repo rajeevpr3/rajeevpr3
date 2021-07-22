@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on Front End Development
 - 📫 How to reach me +919388631646
 
-//add two numbers
 
 <!---
 rajeevpr3/rajeevpr3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
